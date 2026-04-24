@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Student Profile Processor", "Smart Student Profile Processor\Smart Student Profile Processor.csproj", "{C8BCD0B7-9DDF-4A98-A6DD-4CF72F5B44C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentProfileForm", "StudentProfileForm\StudentProfileForm.csproj", "{8B0CD3BF-7AF3-41B7-BFF5-D71212DD2C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BCD0B7-9DDF-4A98-A6DD-4CF72F5B44C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BCD0B7-9DDF-4A98-A6DD-4CF72F5B44C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BCD0B7-9DDF-4A98-A6DD-4CF72F5B44C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BCD0B7-9DDF-4A98-A6DD-4CF72F5B44C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0CD3BF-7AF3-41B7-BFF5-D71212DD2C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0CD3BF-7AF3-41B7-BFF5-D71212DD2C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0CD3BF-7AF3-41B7-BFF5-D71212DD2C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0CD3BF-7AF3-41B7-BFF5-D71212DD2C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88CA9FB-D05A-44F6-B763-CBFF6F73829F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\bin\Debug\Smart Student Profile Processor.exe.config
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\bin\Debug\Smart Student Profile Processor.exe
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\bin\Debug\Smart Student Profile Processor.pdb
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\obj\Debug\Smart Student Profile Processor.csproj.AssemblyReference.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\obj\Debug\Smart Student Profile Processor.csproj.CoreCompileInputs.cache
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\obj\Debug\Smart Student Profile Processor.exe
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\obj\Debug\Smart Student Profile Processor.pdb
+C:\Users\dzand\Desktop\Smart Student Profile Processor\Smart Student Profile Processor\obj\Debug\Smart Student Profile Processor.exe.config
